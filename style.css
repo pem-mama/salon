@@ -51,7 +51,7 @@ header{
 }
 
 #news{
-    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("images/shot1.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("./shot1.jpg");
     height: 900px;
     background-size: cover;
     background-position: center;
